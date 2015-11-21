@@ -1,0 +1,25 @@
+{
+  "name": "bond",
+  "version": "1.0.0",
+  "description": "recommendation engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/karmakoder/bond.git"
+  },
+  "keywords": [
+    "recommendation",
+    "engine",
+    "using",
+    "node"
+  ],
+  "author": "karmakoder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karmakoder/bond/issues"
+  },
+  "homepage": "https://github.com/karmakoder/bond"
+}
